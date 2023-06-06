@@ -1,0 +1,64 @@
+{
+    "os": "Linux-5.19.0-43-generic-x86_64-with-glibc2.35",
+    "python": "3.10.6",
+    "heartbeatAt": "2023-06-06T16:04:36.875192",
+    "startedAt": "2023-06-06T16:04:36.340015",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "mlops-zoomcamp-wandb",
+        "--wandb_entity",
+        "ryandeame",
+        "--data_artifact",
+        "ryandeame/mlops-zoomcamp-wandb/NYC-Taxi:v0"
+    ],
+    "state": "running",
+    "program": "/home/jellyfish/MLOpsCamp/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework-wandb/sweep.py",
+    "codePath": "cohorts/2023/02-experiment-tracking/homework-wandb/sweep.py",
+    "git": {
+        "remote": "https://github.com/ryandeame/mlops2023work.git",
+        "commit": "68591b18f3a01534bd0d52e15d58f340266170a7"
+    },
+    "email": null,
+    "root": "/home/jellyfish/MLOpsCamp/mlops-zoomcamp",
+    "host": "UbuntuJammyJelly",
+    "username": "jellyfish",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 4,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2904.008,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2904.008,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2904.008,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2904.008,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2904.008,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 97.37593841552734,
+        "used": 37.42099380493164
+    },
+    "memory": {
+        "total": 22.64837646484375
+    }
+}
