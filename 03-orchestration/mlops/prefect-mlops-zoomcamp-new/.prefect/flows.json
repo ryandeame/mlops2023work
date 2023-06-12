@@ -1,0 +1,5 @@
+{
+  "main-flow": "3.5/orchestrate_hw.py:main_flow",
+  "main-flow-email": "3.5/orchestrate_hw_email.py:main_flow_email",
+  "main-flow-new": "3.4/orchestrate.py:main_flow_new"
+}
